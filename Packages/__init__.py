@@ -1,2 +1,2 @@
-from .class_one import ClassOne
-from .class_two import ClassTwo
+from .Classone import ClassOne
+from .Classtwo import ClassTwo
